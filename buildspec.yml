@@ -8,6 +8,6 @@ artifacts:
   files:
     - index.html
     - favicon.ico
-    - Resume - Tejaswi Venupalli.docx
+    - Resume - Tejaswi Venupalli.pdf
     - images/*
     - styles/*
